@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#f4f0ea"/>
+  <text x="60" y="70" fill="#1f2a36" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">机器意识的判断框架</text>
+  <text x="60" y="108" fill="#4f5b66" font-size="18" font-family="Arial, Helvetica, sans-serif">区分当前系统的可观察能力，与理论上更强的主体性条件</text>
+
+  <rect x="80" y="150" rx="24" ry="24" width="340" height="300" fill="#d8e7eb" stroke="#5f8793" stroke-width="3"/>
+  <text x="250" y="205" text-anchor="middle" fill="#1f2a36" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">当前人工智能</text>
+  <text x="250" y="255" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">语言生成</text>
+  <text x="250" y="290" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">模式预测</text>
+  <text x="250" y="325" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">工具调用</text>
+  <text x="250" y="360" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">有限记忆与规划</text>
+  <text x="250" y="410" text-anchor="middle" fill="#8b4c3b" font-size="18" font-family="Arial, Helvetica, sans-serif">不足以直接推出主观体验</text>
+
+  <rect x="540" y="150" rx="24" ry="24" width="340" height="300" fill="#d9e8d1" stroke="#6b8a61" stroke-width="3"/>
+  <text x="710" y="205" text-anchor="middle" fill="#1f2a36" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">假想中的有意识机器</text>
+  <text x="710" y="255" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">持续身份</text>
+  <text x="710" y="290" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">稳定自我模型</text>
+  <text x="710" y="325" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">统一控制与长期目标</text>
+  <text x="710" y="360" text-anchor="middle" fill="#34424f" font-size="20" font-family="Arial, Helvetica, sans-serif">内部状态具有因果重量</text>
+  <text x="710" y="410" text-anchor="middle" fill="#3e5d3b" font-size="18" font-family="Arial, Helvetica, sans-serif">这些条件仍只构成更强证据，而非逻辑证明</text>
+
+  <line x1="420" y1="300" x2="540" y2="300" stroke="#5e6a73" stroke-width="4"/>
+  <polygon points="540,300 524,292 524,308" fill="#5e6a73"/>
+  <text x="480" y="285" text-anchor="middle" fill="#4f5b66" font-size="18" font-family="Arial, Helvetica, sans-serif">能力扩展</text>
+</svg>
