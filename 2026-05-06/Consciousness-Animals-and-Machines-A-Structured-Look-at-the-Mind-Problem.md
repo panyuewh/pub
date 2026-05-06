@@ -1,3 +1,9 @@
+---
+title: 意识、动物与机器
+cover: ./cover.png
+author: Phy & Codex(GTP5.4)
+source_url: https://github.com/panyuewh/pub/tree/main/2026-05-06
+---
 # 意识、动物与机器：关于心灵问题的一种结构化考察
 
 ![文章封面](./cover.png)
