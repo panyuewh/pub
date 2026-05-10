@@ -1,7 +1,7 @@
 ---
 title: 意识的主体间性
 author: Phy&GPT
-source_url: https://github.com/panyuewh/pub/tree/main/2026-05-06
+source_url: https://github.com/panyuewh/pub/tree/main/2026-05-10
 ---
 
 ![封面图：濠梁之上，桥、水与鱼构成意识进入共同世界的意象](./cover-consciousness-bridge.png)
