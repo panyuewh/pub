@@ -1,8 +1,10 @@
 ---
 title: 心灵之幕与肉身之舞
 author: Phy&GPT
-source_url: https://github.com/panyuewh/pub/tree/main/2026-06-05
+source_url: https://github.com/panyuewh/codex-exec/blob/master/2026-06-21/Representationism-and-Embodied-Cognition-article-style.md
 ---
+
+![文章封面](./representationism-embodied-cognition-cover-body-v3.png)
 
 # 心灵之幕与肉身之舞
 
