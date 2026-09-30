@@ -1,3 +1,4 @@
+---
 title: 反思照见了什么：自我意识、身体与机器
 author: Phy&GPT
 source_url: https://github.com/panyuewh/pub/blob/main/2026-09-30/self_consciousness_and_reflection_article.md
