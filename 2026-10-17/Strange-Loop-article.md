@@ -1,7 +1,7 @@
 ---
 title: 怪圈理论下的人工智能和自我
 author: Phy&GPT
-source_url: https://github.com/panyuewh/pub/blob/main/2026-09-30/self_consciousness_and_reflection_article.md
+source_url: https://github.com/panyuewh/pub/blob/main/2026-10-17/Strange-Loop-article.md
 ---
 
 # 怪圈理论下的人工智能和自我
